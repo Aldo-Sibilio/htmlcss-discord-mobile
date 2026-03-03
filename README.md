@@ -1,0 +1,1 @@
+Riproduzione del layout mobile di Discord.
